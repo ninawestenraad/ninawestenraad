@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nina Westenraad</h1>
+<h1 align="center">Hi 👋, I'm Nina</h1>
 <h3 align="center">Third year environmental science and data science student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninawestenraad&label=Profile%20views&color=0e75b6&style=flat" alt="ninawestenraad" /> </p>
